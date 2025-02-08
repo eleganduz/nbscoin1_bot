@@ -1,1 +1,0 @@
-# nbscoin1_bot
